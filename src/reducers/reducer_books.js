@@ -5,10 +5,10 @@ import _ from 'lodash';
 
 export default function() {
 	return [
-		{ title: 'Javascript book'},
-		{ title: 'Harry Potter'},
-		{ title: 'LOTR'},
-		{ title: 'Star Wars Book'},
-		{ title: 'Trainspotting'}
+		{ title: 'Javascript book', pages: 100},
+		{ title: 'Harry Potter', pages: 140},
+		{ title: 'LOTR', pages: 49},
+		{ title: 'Star Wars Book', pages: 10},
+		{ title: 'Trainspotting', pages: 403}
 	];
 }
